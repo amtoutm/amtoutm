@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @amtoutm, I am a MSc Embedded System Member of LISIC laboratory , who is motivated to be an active member in challenging tasks.  
-- 👀 I’m interested in ML/DL and TinyML.  
-- 🌱 I’m currently learning LoRa, STM32, Arduino, tinyml.
+- 👋 Hi, I’m @amtoutm, I am an Embedded System developer, who is motivated to be an active member in challenging tasks.  
 - Experience in digital and analog circuit design.
 - Programming with embedded C/C++ and Python.
 - STM32 and Keil IDEs.
